@@ -12,7 +12,7 @@
 
 ```text
 🌍 Based in Delhi, India
-💼 Frontend Developer with 1+ Years of professional experience
+💼 Frontend Developer with hand on professional experience
 ⚛️ Building modern web applications using React & JavaScript
 🌐 Experienced in WordPress, Elementor & responsive UI development
 🚀 Currently expanding my skills in Node.js, Express.js and Backend Development
